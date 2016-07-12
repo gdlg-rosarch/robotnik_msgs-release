@@ -1,0 +1,28 @@
+ros-kinetic-robotnik-msgs (0.2.1-0jessie) jessie; urgency=high
+
+  * added MotorsStatusDifferential.msg
+  * added BatteryStatus msg
+  * Contributors: rguzman
+
+ -- Román Navarro <rnavarro@robotnik.es>  Mon, 11 Jul 2016 22:00:00 -0000
+
+ros-kinetic-robotnik-msgs (0.2.0-0jessie) jessie; urgency=high
+
+  * Adding new field for the Axis.msg
+  * Adding msg State.msg
+  * Merge branch 'master' of https://github.com/RobotnikAutomation/robotnik_msgs
+  * Adding new msg State
+
+ -- Román Navarro <rnavarro@robotnik.es>  Thu, 16 Jul 2015 22:00:00 -0000
+
+ros-kinetic-robotnik-msgs (0.1.0-0jessie) jessie; urgency=high
+
+  * Adding new service set_float_value.srv
+  * Fixing dependencies problems
+  * Adding initial list of messages and services
+  * Initial commit
+  * Contributors: RobotnikRoman, Roman Navarro Garcia
+
+ -- Román Navarro <rnavarro@robotnik.es>  Tue, 05 Aug 2014 22:00:00 -0000
+
+
