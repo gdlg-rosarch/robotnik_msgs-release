@@ -1,3 +1,26 @@
+## robotnik_msgs (kinetic) - 0.2.1-0
+
+The packages in the `robotnik_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic robotnik_msgs --edit` on `Tue, 12 Jul 2016 05:20:49 -0000`
+
+The `robotnik_msgs` package was released.
+
+Version of package(s) in repository `robotnik_msgs`:
+
+- upstream repository: https://github.com/RobotnikAutomation/robotnik_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## robotnik_msgs (indigo) - 0.2.0-0
 
 The packages in the `robotnik_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo robotnik_msgs --edit` on `Fri, 17 Jul 2015 10:39:56 -0000`
